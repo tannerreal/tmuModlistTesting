@@ -1,10 +1,10 @@
 {
-  "modlistName": "onlineTest",
+  "modlistName": "ONLINE MODLIST!!!",
   "modsId": [
     2658
   ],
   "modsGuid": [],
   "modsExternal": [],
   "version": "4.1.x",
-  "modlistUrl": ""
+  "modlistUrl": "https://raw.githubusercontent.com/tannerreal/tmuModlistTesting/refs/heads/main/firstonline.json"
 }
